@@ -1,0 +1,89 @@
++----------------------------------------------------------------------------------------------+
+| RELEASE NAME         | DISTRIBUTIONS                                      |   DOWNLOAD COUNT |
++----------------------------------------------------------------------------------------------+
+| log4j-detect-v1.5.0  | "log4j-detect-1.5.0-darwin-amd64.tar.gz"           |              292 |
+| log4j-detect-v1.5.0  | "log4j-detect-1.5.0-darwin-arm64.tar.gz"           |              110 |
+| log4j-detect-v1.5.0  | "log4j-detect-1.5.0-linux-amd64.tar.gz"            |              708 |
+| log4j-detect-v1.5.0  | "log4j-detect-1.5.0-linux-arm64.tar.gz"            |               57 |
+| log4j-detect-v1.5.0  | "log4j-detect-1.5.0-windows-amd64.zip"             |              400 |
+| log4j-detect-v1.5.0  | "log4j-detect-1.5.0-windows-arm64.zip"             |               26 |
+| log4j-detect-v1.5.0  | "log4j-detect_1.5.0_checksums.txt"                 |               12 |
+| log4j-detect-v1.5.0  | "log4j-detect_1.5.0_linux_amd64.deb"               |               25 |
+| log4j-detect-v1.5.0  | "log4j-detect_1.5.0_linux_amd64.rpm"               |               20 |
+| log4j-detect-v1.5.0  | "log4j-detect_1.5.0_linux_arm64.deb"               |               15 |
+| log4j-detect-v1.5.0  | "log4j-detect_1.5.0_linux_arm64.rpm"               |               11 |
++----------------------------------------------------------------------------------------------+
+| log4j-detect-v1.4.0  | "log4j-detect-1.4.0-darwin-amd64.tar.gz"           |              203 |
+| log4j-detect-v1.4.0  | "log4j-detect-1.4.0-darwin-arm64.tar.gz"           |               43 |
+| log4j-detect-v1.4.0  | "log4j-detect-1.4.0-linux-amd64.tar.gz"            |              561 |
+| log4j-detect-v1.4.0  | "log4j-detect-1.4.0-linux-arm64.tar.gz"            |               59 |
+| log4j-detect-v1.4.0  | "log4j-detect-1.4.0-windows-amd64.zip"             |              446 |
+| log4j-detect-v1.4.0  | "log4j-detect-1.4.0-windows-arm64.zip"             |               35 |
+| log4j-detect-v1.4.0  | "log4j-detect_1.4.0_checksums.txt"                 |               15 |
+| log4j-detect-v1.4.0  | "log4j-detect_1.4.0_linux_amd64.deb"               |               45 |
+| log4j-detect-v1.4.0  | "log4j-detect_1.4.0_linux_amd64.rpm"               |               38 |
+| log4j-detect-v1.4.0  | "log4j-detect_1.4.0_linux_arm64.deb"               |               20 |
+| log4j-detect-v1.4.0  | "log4j-detect_1.4.0_linux_arm64.rpm"               |               18 |
++----------------------------------------------------------------------------------------------+
+| log4j-detect-v1.3.0  | "log4j-detect-1.3.0-darwin-amd64.tar.gz"           |              350 |
+| log4j-detect-v1.3.0  | "log4j-detect-1.3.0-darwin-arm64.tar.gz"           |              123 |
+| log4j-detect-v1.3.0  | "log4j-detect-1.3.0-linux-amd64.tar.gz"            |               61 |
+| log4j-detect-v1.3.0  | "log4j-detect-1.3.0-linux-arm64.tar.gz"            |                5 |
+| log4j-detect-v1.3.0  | "log4j-detect-1.3.0-windows-amd64.zip"             |              159 |
+| log4j-detect-v1.3.0  | "log4j-detect-1.3.0-windows-arm64.zip"             |                8 |
+| log4j-detect-v1.3.0  | "log4j-detect_1.3.0_checksums.txt"                 |               11 |
+| log4j-detect-v1.3.0  | "log4j-detect_1.3.0_linux_amd64.deb"               |                3 |
+| log4j-detect-v1.3.0  | "log4j-detect_1.3.0_linux_amd64.rpm"               |                5 |
+| log4j-detect-v1.3.0  | "log4j-detect_1.3.0_linux_arm64.deb"               |                5 |
+| log4j-detect-v1.3.0  | "log4j-detect_1.3.0_linux_arm64.rpm"               |                6 |
++----------------------------------------------------------------------------------------------+
+| log4j-detect-v1.2.1  | "log4j-detect-1.2.1-darwin-amd64.tar.gz"           |               25 |
+| log4j-detect-v1.2.1  | "log4j-detect-1.2.1-darwin-arm64.tar.gz"           |               24 |
+| log4j-detect-v1.2.1  | "log4j-detect-1.2.1-linux-amd64.tar.gz"            |               93 |
+| log4j-detect-v1.2.1  | "log4j-detect-1.2.1-linux-arm64.tar.gz"            |                9 |
+| log4j-detect-v1.2.1  | "log4j-detect-1.2.1-windows-amd64.zip"             |              158 |
+| log4j-detect-v1.2.1  | "log4j-detect-1.2.1-windows-arm64.zip"             |                8 |
+| log4j-detect-v1.2.1  | "log4j-detect_1.2.1_checksums.txt"                 |                4 |
+| log4j-detect-v1.2.1  | "log4j-detect_1.2.1_linux_amd64.deb"               |                2 |
+| log4j-detect-v1.2.1  | "log4j-detect_1.2.1_linux_amd64.rpm"               |                7 |
+| log4j-detect-v1.2.1  | "log4j-detect_1.2.1_linux_arm64.deb"               |                3 |
+| log4j-detect-v1.2.1  | "log4j-detect_1.2.1_linux_arm64.rpm"               |                2 |
++----------------------------------------------------------------------------------------------+
+| log4j-detect-v1.2.0  | "log4j-detect-1.2.0-darwin-amd64.tar.gz"           |               11 |
+| log4j-detect-v1.2.0  | "log4j-detect-1.2.0-darwin-arm64.tar.gz"           |               30 |
+| log4j-detect-v1.2.0  | "log4j-detect-1.2.0-linux-amd64.tar.gz"            |               38 |
+| log4j-detect-v1.2.0  | "log4j-detect-1.2.0-linux-arm64.tar.gz"            |                4 |
+| log4j-detect-v1.2.0  | "log4j-detect-1.2.0-windows-amd64.zip"             |              131 |
+| log4j-detect-v1.2.0  | "log4j-detect-1.2.0-windows-arm64.zip"             |                9 |
+| log4j-detect-v1.2.0  | "log4j-detect_1.2.0_checksums.txt"                 |               11 |
+| log4j-detect-v1.2.0  | "log4j-detect_1.2.0_linux_amd64.deb"               |                3 |
+| log4j-detect-v1.2.0  | "log4j-detect_1.2.0_linux_amd64.rpm"               |                6 |
+| log4j-detect-v1.2.0  | "log4j-detect_1.2.0_linux_arm64.deb"               |                5 |
+| log4j-detect-v1.2.0  | "log4j-detect_1.2.0_linux_arm64.rpm"               |                4 |
++----------------------------------------------------------------------------------------------+
+| log4j-detect-v1.1.0  | "log4j-detect-1.1.0-darwin-amd64.tar.gz"           |               18 |
+| log4j-detect-v1.1.0  | "log4j-detect-1.1.0-darwin-arm64.tar.gz"           |                4 |
+| log4j-detect-v1.1.0  | "log4j-detect-1.1.0-linux-amd64.tar.gz"            |               42 |
+| log4j-detect-v1.1.0  | "log4j-detect-1.1.0-linux-arm64.tar.gz"            |                5 |
+| log4j-detect-v1.1.0  | "log4j-detect-1.1.0-windows-amd64.zip"             |               57 |
+| log4j-detect-v1.1.0  | "log4j-detect-1.1.0-windows-arm64.zip"             |               12 |
+| log4j-detect-v1.1.0  | "log4j-detect_1.1.0_checksums.txt"                 |                7 |
+| log4j-detect-v1.1.0  | "log4j-detect_1.1.0_linux_amd64.deb"               |                7 |
+| log4j-detect-v1.1.0  | "log4j-detect_1.1.0_linux_amd64.rpm"               |                4 |
+| log4j-detect-v1.1.0  | "log4j-detect_1.1.0_linux_arm64.deb"               |                3 |
+| log4j-detect-v1.1.0  | "log4j-detect_1.1.0_linux_arm64.rpm"               |                3 |
++----------------------------------------------------------------------------------------------+
+| log4j-detect-v1.0.0  | "log4j-detect-1.0.0-darwin-amd64.tar.gz"           |               35 |
+| log4j-detect-v1.0.0  | "log4j-detect-1.0.0-darwin-arm64.tar.gz"           |                6 |
+| log4j-detect-v1.0.0  | "log4j-detect-1.0.0-linux-amd64.tar.gz"            |              108 |
+| log4j-detect-v1.0.0  | "log4j-detect-1.0.0-linux-arm64.tar.gz"            |                4 |
+| log4j-detect-v1.0.0  | "log4j-detect-1.0.0-windows-amd64.zip"             |              311 |
+| log4j-detect-v1.0.0  | "log4j-detect-1.0.0-windows-arm64.zip"             |               18 |
+| log4j-detect-v1.0.0  | "log4j-detect_1.0.0_checksums.txt"                 |               10 |
+| log4j-detect-v1.0.0  | "log4j-detect_1.0.0_linux_amd64.deb"               |                0 |
+| log4j-detect-v1.0.0  | "log4j-detect_1.0.0_linux_amd64.rpm"               |                3 |
+| log4j-detect-v1.0.0  | "log4j-detect_1.0.0_linux_arm64.deb"               |                1 |
+| log4j-detect-v1.0.0  | "log4j-detect_1.0.0_linux_arm64.rpm"               |                1 |
++----------------------------------------------------------------------------------------------+
+|                      | Total                                              |             5141 |
++----------------------------------------------------------------------------------------------+
